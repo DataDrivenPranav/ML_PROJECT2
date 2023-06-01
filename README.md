@@ -1,5 +1,6 @@
 # Sparktask1
  PREDICTIONS USING SUPERVISED MACHINE LEARNING MODEL
+
 import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt
