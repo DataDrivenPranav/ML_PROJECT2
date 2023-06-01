@@ -1,4 +1,4 @@
-# Sparktask1
+# Sparktask1 : Predicting Test Scores based on Study Hours
 Project Description: Predicting Test Scores based on Study Hours
 
 The project aims to develop a predictive model that estimates the test scores of students based on the number of study hours they dedicate to their academics. By analyzing the relationship between study hours and test performance, the model seeks to provide valuable insights to educators, students, and other stakeholders, allowing them to understand and potentially improve academic outcomes.
